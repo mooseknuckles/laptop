@@ -26,6 +26,5 @@ What it sets up
 * Rails gem (for writing web applications)
 * Postgres gem (for making Ruby talk to SQL databases)
 * Git Remote Branch gem (for faster git branch creation and deletion)
-* Heroku labs plugin (for using config variables during assets precompile and for using Ruby 1.9.3)
 
 It should take about 30 minutes for everything to install, depending on your machine.
