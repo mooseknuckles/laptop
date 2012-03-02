@@ -1,7 +1,6 @@
 Laptop
 ======
 
-Laptop is a set of scripts to get your Max OS X laptop set up as a Rails development machine.
 
 Install
 -------
@@ -10,7 +9,7 @@ First, install [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer)
 
 Then, run this one-liner:
 
-    bash < <(curl -s https://raw.github.com/moosehead/laptop/master/mac)
+    bash < <(curl -s https://raw.github.com/mooseknuckles/laptop/master/mac)
 
 What it sets up
 ---------------
